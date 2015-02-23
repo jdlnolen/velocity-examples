@@ -1,7 +1,8 @@
 velocity-examples
 ================
 
-Examples of using testing frameworks that are integrated with Velocity.
+Examples of using testing frameworks that are integrated with Velocity. JD fork. 
+
 
 ### Installation
 
